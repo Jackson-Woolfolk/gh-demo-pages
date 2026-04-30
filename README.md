@@ -3,9 +3,7 @@
 # Ida Bailey Allen's Orange and Date Cake
 ## Orange and Date Cake
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-
-#![Orange Date Cake with Tea](/images/DCSI350_pages_demo_pic.png)
+![Orange Date Cake](/images/DCSI350_pages_demo_pic.png)
 
 ### Ingredients
 - 1/2 cup butter
